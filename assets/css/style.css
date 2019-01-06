@@ -3,3 +3,6 @@
 .wavy {
   text-decoration: wavy underline;
 }
+.wavy:hover {
+  text-decoration: wavy underline;
+}
